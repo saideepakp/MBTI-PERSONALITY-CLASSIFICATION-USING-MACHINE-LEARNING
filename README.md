@@ -139,4 +139,4 @@ The stratified baseline achieved only 6.22% accuracy, confirming that meaningful
 **Sai Deepak Poondla**
 Data Analyst | Python | Machine Learning | SQL | Power BI | Tableau
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/sai-deepak-poondla-7143ba21a) | [Portfolio](https://necessary-quark-0ca.notion.site/Sai-Deepak-s-Portfolio-2e8174c2c52d8067aec8c582e216b1bb)
